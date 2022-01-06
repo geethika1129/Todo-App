@@ -1,0 +1,54 @@
+img{
+    margin-top: 40px;
+    width: 400px;
+    height: 200px;
+    display: flex;
+    align-items: center;
+  }
+
+  .head{
+    font-family: 'Fredoka One', cursive;
+    text-align: center;
+    font-size: 100px;
+  }
+
+  @media only screen and (max-width: 600px) {
+    .head{
+        font-family: 'Fredoka One', cursive;
+        text-align: center;
+        font-size: 75px;
+      }
+  }
+
+  #form{
+     padding: 5%;
+  }
+
+
+
+  #btn{
+      margin-left: 40%;
+  }
+#add{
+    padding-left: 10px;
+}
+  #kk{
+      padding: 50px;
+  }
+
+
+  #icon{
+    font-size:36px;
+    color: red;
+  }
+
+ #et{
+      float: right;
+      margin-right: 10px;
+  }
+
+  #ge{
+      float: right;
+      margin-right: 10px;
+  }
+ 
